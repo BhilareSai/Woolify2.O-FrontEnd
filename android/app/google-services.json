@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202507847239",
+    "project_id": "woolify",
+    "storage_bucket": "woolify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202507847239:android:1bb9b269e86cf074c5d362",
+        "android_client_info": {
+          "package_name": "com.example.woolify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVakauI1ONS83TabrnG5kUrRSrOf2byPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
